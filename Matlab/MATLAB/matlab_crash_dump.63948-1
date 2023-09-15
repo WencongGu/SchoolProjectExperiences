@@ -1,0 +1,20 @@
+
+--------------------------------------------------------------------------------
+                 abort() detected at 2023-01-05 21:53:45 +0800
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : maci64
+  MATLAB Entitlement ID    : 6257193
+  MATLAB Root              : /Applications/MATLAB_R2021b.app
+  MATLAB Version           : 9.11.0.1769968 (R2021b)
+  Operating System         : Mac OS 版本13.0.1（版号22A400）
+  Process ID               : 63948
+  Processor ID             : x86 Family 6 Model 44 Stepping 0, GenuineIntel
+  Session Key              : 0e214338-6513-4863-ab8e-4ee0fd6cd21f
+  Window System            : Quartz
