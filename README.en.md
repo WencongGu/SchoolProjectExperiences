@@ -17,8 +17,6 @@ The following languages are included:
 2.  C++
 3.  MySQL
 4.  Matlab
-5.  Swift
-
 
 #### Contribution
 
