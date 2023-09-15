@@ -1,22 +1,24 @@
-# 项目经历
+# Project Experience
 
 #### Description
-本科在校期间编写的代码整理汇总，主要偏向算法实现与优化，包含数据分析、机器学习等方面内容
+A compilation of all my projects' code during my undergraduate studies, with a bias towards algorithm implementation and optimization, including data analysis and machine learning.
+
+Hope you can give me some advice so I can get them perform better.
 
 #### Software Architecture
 Software architecture description
 
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+I was mainly trying to improve my skills of coding and attempted to get a better understanding of all those essential methods behind algorithms. Mistakes may occur when software version does not compare. Check it out before you use the code.
 
 #### Instructions
+The following languages are included:
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  python
+2.  C++
+3.  MySQL
+4.  Matlab
+5.  Swift
+
 
 #### Contribution
 
