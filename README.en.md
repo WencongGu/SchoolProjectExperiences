@@ -1,6 +1,8 @@
 # Project Experience
 
 #### Description
+*Imported from Gitee*
+
 A compilation of all my projects' code during my undergraduate studies, with a bias towards algorithm implementation and optimization, including data analysis and machine learning.
 
 Hope you can give me some advice so I can get them perform better.
