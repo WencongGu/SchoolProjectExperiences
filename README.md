@@ -1,7 +1,7 @@
 # Project Experience
 
 #### Description
-*Imported from Gitee*
+*Imported from Gitee, which is a Chinese cooperative code hosting platform*
 
 A compilation of all my projects' code during my undergraduate studies, with a bias towards algorithm implementation and optimization, including data analysis and machine learning.
 
